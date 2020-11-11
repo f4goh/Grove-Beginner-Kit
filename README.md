@@ -1,10 +1,10 @@
-**Grove-Beginner-Kit**
+##Grove-Beginner-Kit##
 
 # Grove Beginner Kit review
 
-[review_en](pdf/Grove_Beginner_Kit_en.pdf) review in english
+[review in english](pdf/Grove_Beginner_Kit_en.pdf)
 
-[review_fr](pdf/Grove_Beginner_Kit_en.pdf) review in french
+[review in french](pdf/Grove_Beginner_Kit_en.pdf) 
 
 *f4goh@orange.fr*
 
