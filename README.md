@@ -1,6 +1,6 @@
-## Grove-Beginner-Kit ##
+# Grove-Beginner-Kit
 
-# Grove Beginner Kit review
+## Grove Beginner Kit review ##
 
 [review in english](pdf/Grove_Beginner_Kit_en.pdf)
 
