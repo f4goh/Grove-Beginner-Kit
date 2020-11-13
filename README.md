@@ -1,4 +1,4 @@
-# Grove-Beginner-Kit [from seeedstudio](https://www.seeedstudio.com/Grove-Beginner-Kit-for-Arduino-p-4549.html)
+# Grove-Beginner-Kit from [seeedstudio](https://www.seeedstudio.com/Grove-Beginner-Kit-for-Arduino-p-4549.html)
 
 ## Grove Beginner Kit review ##
 
